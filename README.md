@@ -5,8 +5,8 @@
 ## Server
 
 ```bash
-cd client
-go build && ./client
+cd server
+go build && ./server
 ```
 
 ## Client
